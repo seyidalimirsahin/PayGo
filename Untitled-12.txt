@@ -1,0 +1,4 @@
+<script>
+  alert("Çıxış edildi");
+  location.href="index.html";
+</script>
